@@ -1,7 +1,7 @@
 {
   "name": "discord-crypto-price-tracker",
   "version": "1.0.0",
-  "description": "A crypto price tracker that displays price through an active discord bot.",
+  "description": "A discord bot that tracks and displays the price of a cryptocurrency pair.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
