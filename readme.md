@@ -1,6 +1,6 @@
 # discord-crypto-price-tracker
 
-A crypto price tracker that displays price through an active discord bot.
+A discord bot that tracks and displays the price of a cryptocurrency pair.
 
 ## Requirements
 
@@ -23,7 +23,7 @@ npm install
 
 1. Create a Bot through the discord developer portal, give it relevant permissions and invite it to your discord server.
 
-2. Add the TOKEN to the .env file.
+2. Add the bots TOKEN to the .env file.
 
 ## Running
 
